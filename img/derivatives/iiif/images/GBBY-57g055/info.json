@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/GBBY-57g055",
+  "protocol": "http://iiif.io/api/image",
+  "width": 398,
+  "height": 480,
+  "sizes": [
+    {
+      "width": 398,
+      "height": 480
+    },
+    {
+      "width": 250,
+      "height": 302
+    },
+    {
+      "width": 1140,
+      "height": 1375
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
