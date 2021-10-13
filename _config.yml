@@ -21,7 +21,7 @@
 title:            'Wax Sandbox'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://kwaldenphd.github.io'
-baseurl:          '/wax-sanbox'
+baseurl:          '/wax-sandbox'
 copyright:        '2021'
 logo:             '/assets/logo.png'
 
