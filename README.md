@@ -121,7 +121,7 @@ docker run -it --rm -v "$PWD":/wax --name wax -p 4000:4000 minicomp/wax bash
 
 ```
 # windows...you have to love it
-winpty docker run --rm -it -v $PWD:/wax --name -p 4000:4000 minicomp/wax bash
+winpty docker run -it --rm -v /$PWD:/wax --name wax -p 4000:4000 minicomp/wax bash
 ```
 
 To serve the site, you can run the following command in the guest container and view it in your host browser:
