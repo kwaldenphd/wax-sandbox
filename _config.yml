@@ -64,7 +64,7 @@ kramdown:
 
 collections:
   exhibits:
-    output: false
+    output: true
   bagby: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'generic_collection_item' # the layout for the pages to use
