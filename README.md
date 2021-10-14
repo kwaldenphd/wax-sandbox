@@ -56,6 +56,11 @@ convert -version
 gs -version
 ```
 
+```sh
+# FOR WINDOWS
+gswin64 -version
+```
+
 Vips will soon replace ImageMagick for Wax's image processing. If you're ahead of the curve, you can check your version with
 
 ``` sh
