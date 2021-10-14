@@ -67,6 +67,11 @@ Vips will soon replace ImageMagick for Wax's image processing. If you're ahead o
 vips -version
 ```
 
+```sh
+# FOR WINDOWS
+vips --version
+```
+
 # Getting Started
 
 __There are a few ways to get started with Wax, depending on your needs.__ Copyin the demo template is suggested for new users so you can see how a full Wax site would work. __Advanced Jekyllers__ can start from a clean Jekyll install. To start with the demo:
