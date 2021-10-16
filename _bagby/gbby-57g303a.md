@@ -1,5 +1,5 @@
 ---
-pid: GBBY-57g303a
+pid: gbby-57g303a
 order: 303a
 file_name: GBBY-57g303a.jpg
 label: 'GBBY 57G/303a: John Frederick - Basketball Player - 1925-1926'

@@ -1,5 +1,5 @@
 ---
-pid: GBBY-57g357a
+pid: gbby-57g357a
 order: 357a
 file_name: GBBY-57g357a.jpg
 label: 'GBBY 57G/357a: Edward Donohoe: Baseball Player - 1928'

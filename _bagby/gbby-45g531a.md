@@ -1,5 +1,5 @@
 ---
-pid: GBBY-45g531a
+pid: gbby-45g531a
 order: 531a
 file_name: GBBY-45g531a.jpg
 label: 'GBBY 45G/531a: Coach John Nicholson with Camera in Car, Track Practice - Player

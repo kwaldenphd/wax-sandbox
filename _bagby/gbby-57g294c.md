@@ -1,5 +1,5 @@
 ---
-pid: GBBY-57g294c
+pid: gbby-57g294c
 order: 294c
 file_name: GBBY-57g294c.jpg
 label: 'GBBY 57G/294c: Basketball Team Photo - Collage (Composite) - 1925-1926'

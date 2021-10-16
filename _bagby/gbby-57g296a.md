@@ -1,5 +1,5 @@
 ---
-pid: GBBY-57g296a
+pid: gbby-57g296a
 order: 296a
 file_name: GBBY-57g296a.jpg
 label: 'GBBY 57G/296a: Louis Conroy - Basketball Player - 1925-1927'

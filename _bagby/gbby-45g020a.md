@@ -1,5 +1,5 @@
 ---
-pid: GBBY-45g020a
+pid: gbby-45g020a
 order: '20'
 file_name: GBBY-45g020a.jpg
 label: 'GBBY 45G/020a: Wallace (Wally) Fromhart: Football Player - c1933-1935'

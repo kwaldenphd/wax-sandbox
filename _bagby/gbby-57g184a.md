@@ -1,5 +1,5 @@
 ---
-pid: GBBY-57g184a
+pid: gbby-57g184a
 order: 184a
 file_name: GBBY-57g184a.jpg
 label: 'GBBY 57G/184a: Football Team with Babe Ruth - 1926'
