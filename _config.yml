@@ -67,7 +67,7 @@ collections:
     output: true
   bagby: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'generic_collection_item' # the layout for the pages to use
+    layout: 'bagby_item' # the layout for the pages to use
     metadata:
       source: 'photos.csv' # path to the metadata file within `_data`
     images:
