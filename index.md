@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: bagby
-  pid: obj10
+  pid: gbby-45g001
   y: 25%
   height: '500px'
 ---
